@@ -1,1 +1,1 @@
-this is my portfolio for python
+This is my portfolio for python.
